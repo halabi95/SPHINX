@@ -178,9 +178,9 @@ If you use SPHINX in your research, please cite:
 
 ```bibtex
 @article{elhalabi2026sphinx,
-  title={SPHINX: Interface-Aware Sparse Data Placement for Extended Physics-Informed Neural Networks},
+  title={Interface-Aware Sparse Data Placement for Extended Physics-Informed Neural Networks Applied to Computational Fluid Dynamics and Fluid–Structure Interaction},
   author={El Halabi, Hamze and Takahashi, Yusuke},
-  journal={Physics of Fluids},
+  journal={Computers and Fluids},
   year={2026},
   note={Under review}
 }
