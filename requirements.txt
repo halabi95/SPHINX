@@ -1,0 +1,16 @@
+# Core dependencies for SPHINX training and analysis
+# Tested with Python 3.9-3.11
+
+torch>=1.12.0
+numpy>=1.21.0
+scipy>=1.9.0
+matplotlib>=3.5.0
+
+# Optional: only needed if regenerating FEniCS reference solutions
+# fenics-dolfin>=2019.1.0   # install via conda: conda install -c conda-forge fenics
+
+# Optional: only needed if regenerating SU2 reference solutions
+# SU2 v8.0 or later, installed separately (see https://su2code.github.io)
+
+# Optional: only needed if regenerating turtleFSI reference solutions
+# turtleFSI>=1.5    # install via conda: conda install -c conda-forge turtleFSI
